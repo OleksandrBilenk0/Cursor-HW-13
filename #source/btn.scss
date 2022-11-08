@@ -1,9 +1,20 @@
+a {
+    text-decoration: none;
+}
+
 h2 {
     font-family: 'Inter', sans-serif;
     font-size: 25px;
     font-weight: 600;
     line-height: 30px;
     color: #2C2C2C;
+}
+
+body {
+    background-image: url(../images/78b4bfe54f757518b2e8ab07c1c58c68.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 .container {
